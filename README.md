@@ -1,2 +1,2 @@
 # taxi-faries-pedict
-using ml algo with stroingmogodb
+how to sotre the data using mongodb
